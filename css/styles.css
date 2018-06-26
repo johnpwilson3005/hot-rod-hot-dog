@@ -1,0 +1,145 @@
+body {
+    margin: 0 auto;
+    background-color: #ea566a;
+}
+
+.nav-bar {
+    height: 80px;
+    width: 100%;
+    background-color: #506be5;
+}
+
+.nav-items {
+    float: right;
+    margin-right: 25px;
+}
+
+.list-item {
+    list-style-type: none;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.party {
+    text-align: center;
+}
+
+.whats-up {
+  width: 33.1%;
+  height: 300px;
+  margin: 0 auto;
+  text-align: center;
+  float: left;
+  /*border: 1px solid #ffffff;*/
+  margin-top: 10px;
+}
+
+.hold-my-text {
+    /*background-color: #FFFFFF;*/
+}
+
+.partyin-time {
+    text-align: center;
+    /*background-color: #FFFFFF*/
+}
+
+.da-text {
+    text-align: center;
+     /*background-color: #FFFFFF*/
+}
+
+.hwishkey {
+    height: 200px;
+    width: 400px;
+    margin-top: 40px;
+}
+
+.im-flying {
+    height: 200px;
+    width: 400px;
+    margin-top: 40px;
+}
+
+.party-prep {
+    height: 200px;
+    width: 400px;
+    margin-top: 40px;
+}
+
+.footer-column {
+  width: 100%;
+  height: 80px;
+  /*border: 1px dashed blue;*/
+  display: inline-block;
+  vertical-align: top;
+  /*position: absolute;*/
+  /*right: 0%;*/
+  /*bottom: 0%;*/
+  /*left: 0%;*/
+  background-color: #506be5;
+  text-align: center;
+  /*position: fixed;*/
+  left: 0;
+  bottom: 0;
+} 
+
+.icon {
+    color: #003996;
+    margin-top: 15px;
+}
+
+.move-over {
+    margin-left: 20px;
+}
+
+.friendly-banner {
+    height: 400px;
+    width: 100%;
+}
+
+.frands-pics {
+  width: 33.1%;
+  height: 300px;
+  margin: 0 auto;
+  text-align: center;
+  float: left;
+  /*border: 1px dashed blue;*/
+}
+
+.firework-pic {
+    height: 200px;
+    width: 400px;
+    margin-top: 40px;
+}
+
+.crashing {
+    height: 200px;
+    width: 400px;
+    margin-top: 40px;
+}
+
+.dancin {
+    height: 200px;
+    width: 400px;
+    margin-top: 40px;
+}
+
+.hold-the-friends {
+    text-align: center;
+}
+
+.celebrate-parent {
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    /*border: 1px solid blue;*/
+}
+
+.celebrate-it-pic {
+    margin-top:35px;
+}
+
+.make-space {
+    height: 100px;
+}
